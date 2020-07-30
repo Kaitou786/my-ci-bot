@@ -1,4 +1,7 @@
-# my-ci-bot
+
+# DEPRECATED
+The reposiotry has been depreceated and all the future updates will be on https://github.com/kiegroup/github-ci-bot
+Please use that one
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
 
